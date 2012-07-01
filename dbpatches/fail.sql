@@ -1,0 +1,1 @@
+Nije u opste ok sintaxa
