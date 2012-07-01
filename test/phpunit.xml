@@ -1,0 +1,14 @@
+<phpunit bootstrap="./application/bootstrap.php"
+        colors="true"
+        format="frames"
+        todir="reports/">
+    <testsuite name="CMS">
+        <directory>../cms</directory>
+        <directory>./</directory>
+    </testsuite>
+
+    <logging>
+        <log type="coverage-html" target="/home/gitlaunc/public_html/cenkovic/GitLaunchpad/test/reports" charset="UTF-8" yui="true" highlight="false" lowUpperBound="35" highLowerBound="70"/>
+        <log type="coverage-clover" target="/home/gitlaunc/public_html/cenkovic/GitLaunchpad/test/reports/coverage.xml"/>
+    </logging>
+</phpunit>

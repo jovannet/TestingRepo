@@ -1,0 +1,93 @@
+WebsiteinfoModel
+ [x] Get website info
+ [x] Update settings
+
+ErrorModel
+ [x] Get errors
+ [x] Get bugable
+ [x] Set errors
+ [x] Get error text
+
+ManageContentModel
+ [x] Create test content type
+ [x] save new article
+ [x] Get content type
+ [x] Get content type table name
+ [x] Get article list
+ [x] Get articles list search
+ [x] Get content list
+ [x] Copy article
+ [x] Delete article
+ [x] Full edit
+ [x] Get article title
+ [x] Edit title filed
+ [x] Get title filed column
+ [x] Full update
+ [x] Get category id from title
+ [x] Order content items inside category
+ [x] Order content items inside content type
+ [x] s get article id
+ [x] Remove widget
+ [x] Delete content type
+
+RegionsModel
+ [x] Add reginos
+ [x] Delete regions
+
+WidgetsModel
+ [x] Save
+ [x] Get widgets types
+ [x] Get all articles for widget
+ [x] Delete
+
+LanguageModel
+ [x] Get active languages
+ [x] Get default language
+ [x] Get inactive languages
+ [x] Activate language
+ [x] Set as default
+ [x] Disable language
+
+UsersModel
+ [x] Get info by email
+ [x] Get info by id
+ [x] Get user info by id
+ [x] Update user info
+ [x] Create
+ [x] Delete
+ [x] Get users list
+ [x] Get users list by role
+ [x] Get users list by roles
+ [x] Get all countries
+ [x] Is exist email
+ [x] Get all languages
+
+ContenttypesModel
+ [x] Add content type
+ [x] get content type
+ [x] Get field type
+ [x] Delete column
+ [x] Delete content type
+
+FormtypesModel
+ [x] Get form types list and create new from type
+ [x] Update
+ [x] Get form type
+ [x] Get submitions list
+ [x] Get submition data
+ [x] Get content list
+ [x] Delete column
+ [x] Delete submition
+ [x] Delete form type
+
+RoleModel
+ [x] Get all roles
+ [x] Get role info
+ [x] Get role menu rules
+ [x] Get role fetarue rules
+ [x] Get guest role
+ [x] Get root role
+ [x] update role
+ [x] Admin panel
+ [x] Save and delete
+
